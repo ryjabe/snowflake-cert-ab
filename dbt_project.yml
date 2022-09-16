@@ -15,4 +15,4 @@ clean-targets:          # directories to be removed by `dbt clean`
 
 models:
   snowflake_cert_ab:
-    +materialized: view
+    +materialized: table

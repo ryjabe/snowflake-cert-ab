@@ -6,3 +6,5 @@ sources:
   tables:
 ###################################################################################################
   - name: tc9_src_lineitem_1
+  - name: tc9_src_lineitem_2
+  - name: tc9_src_lineitem_3
